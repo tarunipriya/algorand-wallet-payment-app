@@ -1,6 +1,6 @@
 # Algorand Wallet & Payment App
 
-Beginner project built on Algorand TestNet.
+Beginner-friendly project built on Algorand TestNet.
 
 ## Features
 - Create Algorand wallet
@@ -12,3 +12,6 @@ Beginner project built on Algorand TestNet.
 
 ## Network
 - Algorand TestNet
+
+## Author
+Tarunipriya
