@@ -1,17 +1,18 @@
 # Algorand Wallet & Payment App
 
-Beginner-friendly project built on Algorand TestNet.
+This project demonstrates basic Algorand operations using the Python SDK.
 
 ## Features
 - Create Algorand wallet
-- Check wallet balance
+- Check account balance
+- Send Algo payments (TestNet)
 
-## Tech Stack
-- Python
-- Algorand Python SDK
+## Requirements
+- Python 3
+- py-algorand-sdk
 
-## Network
-- Algorand TestNet
-
-## Author
-Tarunipriya
+## How to Run
+pip install -r requirements.txt
+python create_wallet.py
+python check_balance.py
+python send_payment.py
